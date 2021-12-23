@@ -1,0 +1,9 @@
+{
+  "name": "anti-mention-bot",
+  "version": "0.0.0",
+  "description": "AntiMentionBot",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
